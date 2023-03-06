@@ -1,0 +1,2 @@
+# localemgmtES
+locale manager
